@@ -11,21 +11,4 @@ __Palette de couleur__: [coolors.co](https://coolors.co/858585-fff1eb-b83400-140
 
 ## Diagramme
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![synopsis](synopsis.png)
