@@ -24,20 +24,16 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 700px;
     width: 800px;
     background-color: #fff;
     padding: 10px;
 }
 
 img {
-    height: 500px;
+    
     width: 500px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    position: relative;
-    top: -20%;
+    margin: 50px;
+    
 }
 
 .btn {
@@ -45,30 +41,25 @@ img {
     width: 100%;
     position: relative;
     align-items: center;
-    justify-content: space-between;
-    bottom: 10%;
+    justify-content: space-around;
+    margin-bottom: 30px;
+ 
    
     
 }
 
 h1 {
-   display: flex;
-   position: relative;
-   height: 100%;
-   justify-content: center;
+   text-align: center;
+   margin: 30px;
    font-size: 80px;
-   top: -5%;
-    font-family: 'Roboto', sans-serif; 
+   font-family: 'Roboto', sans-serif; 
     
 }
 
 h2 {
-    display: flex;
-   position: relative;
-   height: 100%;
-   justify-content: center;
-   flex-direction: column;
-   top: -100px;
+   text-align: center;
+   margin:20px ;
+   margin-top: 0;
    font-size: 30px;
    font-family: 'Roboto', sans-serif; 
 
@@ -76,20 +67,17 @@ h2 {
 }
 
 p {
-    display: flex;
-    position: relative;
-    height: 100%;
-    justify-content: center;
-    flex-direction: column;
-    top: -150px;
+    
     font-size: 20px;
-    padding: 30px;
+    margin: 10px;
+    text-align: center;
     font-family: 'Roboto', sans-serif; 
 }
 
-a {
+button {
     padding: 15px;
     background-color: rgba(104, 80, 80, 0.452);
     font-family: 'Roboto', sans-serif; 
+    
    
 }
